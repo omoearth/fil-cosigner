@@ -32,7 +32,8 @@
     "lowercase-keys": "^2.0.0",
     "noble-bls12-381": "^0.8.0",
     "pino": "^6.8.0",
-    "swagger-express-middleware": "^4.0.2"
+    "swagger-express-middleware": "^4.0.2",
+    "jwt-decode": "^3.1.2"
   },
   "devDependencies": {
     "@types/chai": "^4.2.14",
